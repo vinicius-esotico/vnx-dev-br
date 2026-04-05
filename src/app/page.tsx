@@ -7,7 +7,7 @@ export default function Home() {
 			<header className="fixed top-0 w-full z-50 border-b border-white/10 bg-background/80 backdrop-blur-md">
 				<div className="container mx-auto px-4 h-16 flex items-center justify-between">
 					<div className="flex items-center gap-2">
-						<div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center font-bold text-white">V</div>
+						{/* futuro logo <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center font-bold text-white">V</div> */}
 						<span className="text-xl font-bold tracking-tight">VNX Dev</span>
 					</div>
 					<nav className="hidden md:flex items-center gap-8 text-sm font-medium">
